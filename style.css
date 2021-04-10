@@ -1,15 +1,25 @@
+:root {
+    --box-width: 400px;
+}
+h1 {
+    text-transform: capitalize;
+}
 .standardImg {
     border-radius: 10px;
 }
 .education {
+    width: var(--box-width);
     background-color: rgb(94, 92, 255);
     border-radius: 10px;
     padding: 0px 20px 5px 20px;
+    margin: auto;
 }
 .jobhistory {
+    width: var(--box-width);
     background-color: rgb(126, 9, 9);
     border-radius: 10px;
     padding: 0px 20px 5px 20px;
+    margin: auto;
 }
 body {
     background-color: black;
