@@ -1,6 +1,16 @@
 .standardImg {
     border-radius: 10px;
 }
+.education {
+    background-color: rgb(94, 92, 255);
+    border-radius: 10px;
+    padding: 0px 20px 5px 20px;
+}
+.jobhistory {
+    background-color: rgb(126, 9, 9);
+    border-radius: 10px;
+    padding: 0px 20px 5px 20px;
+}
 body {
     background-color: black;
     color: white;
